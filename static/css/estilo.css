@@ -1,0 +1,128 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  display: flex;
+  /* background-color: #01c38e; */
+  background-color: #7fbcab;
+}
+
+footer {
+  display: flex;
+  font-size: 18px;
+  text-align: center;
+  margin-top: 50px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  padding: 20px;
+  background-color: #01c38e;
+  color: #000;
+}
+header a,
+footer a {
+  color: aqua;
+  text-decoration: none;
+}
+
+footer a,
+footer li {
+  color: black;
+  text-decoration: none;
+}
+
+a,
+li {
+  color: aqua;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  position: relative;
+}
+
+nav {
+  max-width: 1000px;
+  font-size: 18px;
+  margin: auto;
+}
+ul {
+  list-style: none;
+  display: flex;
+}
+
+li {
+  padding: 10px;
+}
+li a:hover {
+  /* font-size: 19px; */
+  /* color: bisque; */
+  background-color: rgba(0, 0, 255, 0.5);
+}
+
+h1,
+h2 {
+  padding: 10px;
+  text-align: center;
+}
+
+h3,
+h4 {
+  padding: 10px;
+  margin: 10px;
+}
+
+p {
+  padding: 5px;
+}
+
+/* formulario */
+form label {
+  display: block;
+  width: 300px;
+  margin-bottom: 10px;
+}
+form input {
+  display: block;
+  margin-bottom: 10px;
+}
+
+/* Imagenes */
+img:hover {
+  transform: scale(1.1);
+}
+
+/* Botones*/
+button {
+  padding: 10px;
+  font-size: 16px;
+  border: 2px solid #333;
+  border-radius: 15px;
+  cursor: pointer;
+  margin: 10px;
+  transition: background-color 0.3s, transform 0.3s;
+}
+
+button:hover,
+button:focus {
+  outline: none;
+  background: #ee2345;
+  color: #fff;
+  transform: translateY(-2px);
+  /* Da el efecto de elevarse al pasar el mouse */
+}
+
+@media (max-width: 800px) {
+  header,
+  footer {
+    display: block;
+  }
+  footer ul {
+    display: block;
+  }
+}

@@ -1,0 +1,66 @@
+[
+    {
+        "id": 21,
+        "nombre": "Cuy pequeño con Planta",
+        "tipo": "Mini - Maceta / Incluye Planta",
+        "direccion": "static/img/Cuyerones/productos/ceramica_plantas/cuy_peque_planta.png",
+        "dimensiones": "45x75x45mm",
+        "precio": "usd 2.50"
+    },
+    {
+        "id": 22,
+        "nombre": "Cuy Mediano con Planta",
+        "tipo": "Mini - Maceta / Incluye Planta",
+        "direccion": "static/img/Cuyerones/productos/ceramica_plantas/cuy_mediano_planta.png",
+        "dimensiones": "75x140x75mm",
+        "precio": "usd 4.50"
+    },
+    {
+        "id": 23,
+        "nombre": "Cuy Grande con Planta",
+        "tipo": "Mini - Maceta / Incluye Planta",
+        "direccion": "static/img/Cuyerones/productos/ceramica_plantas/cuy_grande_planta.png",
+        "dimensiones": "80x160x90mm",
+        "precio": "usd 6.00"
+    },
+    {
+        "id": 24,
+        "nombre": "Gatito con Planta",
+        "tipo": "Mini - Maceta / Incluye Planta",
+        "direccion": "static/img/Cuyerones/productos/ceramica_plantas/gato_planta.png",
+        "dimensiones": "100x60x75mm",
+        "precio": "usd 3.00"
+    },
+    {
+        "id": 25,
+        "nombre": "Vaquita con planta",
+        "tipo": "Mini - Maceta / Incluye Planta",
+        "direccion": "static/img/Cuyerones/productos/ceramica_plantas/vaca_planta.png",
+        "dimensiones": "55x55x70mm",
+        "precio": "usd 3.00"
+    },
+    {
+        "id": 26,
+        "nombre": "Mini - Maceta Cuadrada",
+        "tipo": "Mini - Maceta / Incluye Planta",
+        "direccion": "static/img/Cuyerones/productos/ceramica_plantas/macetas (1).png",
+        "dimensiones": "100x100x100mm",
+        "precio": "usd 3.00"
+    },
+    {
+        "id": 27,
+        "nombre": "Mini - Maceta hexagonal",
+        "tipo": "Mini - Maceta / Incluye Planta",
+        "direccion": "static/img/Cuyerones/productos/ceramica_plantas/macetas (2).png",
+        "dimensiones": "100x100x100mm",
+        "precio": "usd 3.00"
+    },
+    {
+        "id": 28,
+        "nombre": "Mini - Maceta Vasija",
+        "tipo": "Mini - Maceta / Incluye Planta",
+        "direccion": "static/img/Cuyerones/productos/ceramica_plantas/macetas (3).png",
+        "dimensiones": "80x80x100mm",
+        "precio": "usd 3.00"
+    }
+]

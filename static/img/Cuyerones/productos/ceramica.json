@@ -1,0 +1,211 @@
+[   
+    {
+        "id": 1,
+        "nombre": "Cuy araña",
+        "tipo": "Porta - Incienso",
+        "direccion": "static/img/Cuyerones/productos/ceramica/cuy_arana_inc.png",
+        "dimensiones": "45x75x45mm",
+        "precio": "usd 2.00"
+    },
+    {
+        "id": 2,
+        "nombre": "Cuy pequeño",
+        "tipo": "Porta - Incienso",
+        "direccion": "static/img/Cuyerones/productos/ceramica/cuy_peque_inc.png",
+        "dimensiones": "45x75x45mm",
+        "precio": "usd 2.00"
+    }, 
+    {
+        "id": 3,
+        "nombre": "Cuy pequeño",
+        "tipo": "Mini - Maceta",
+        "direccion": "static/img/Cuyerones/productos/ceramica/cuy_peque.png",
+        "dimensiones": "45x75x45mm",
+        "precio": "usd 2.00"
+    },
+    {
+        "id": 4,
+        "nombre": "Cuy Mediano",
+        "tipo": "Mini - Maceta",
+        "direccion": "static/img/Cuyerones/productos/ceramica/cuy_mediano.png",
+        "dimensiones": "75x140x75mm",
+        "precio": "usd 4.00"
+    },
+    {
+        "id": 5,
+        "nombre": "Cuy Grande",
+        "tipo": "Mini - Maceta",
+        "direccion": "static/img/Cuyerones/productos/ceramica/cuy_grande.png",
+        "dimensiones": "80x160x90mm",
+        "precio": "usd 5.00"
+    },
+    {
+        "id": 6,
+        "nombre": "Cuy XG",
+        "tipo": "Mini - Maceta",
+        "direccion": "static/img/Cuyerones/productos/ceramica/cuy_xg.png",
+        "dimensiones": "100x250x120mm",
+        "precio": "usd 8.00"
+    },
+    {
+        "id": 7,
+        "nombre": "Groot Pequeño",
+        "tipo": "Mini - Maceta",
+        "direccion": "static/img/Cuyerones/productos/ceramica/groot_peque.png",
+        "dimensiones": "60x70x150mm",
+        "precio": "usd 4.00"
+    },
+    {
+        "id": 8,
+        "nombre": "Groot Mediano",
+        "tipo": "Mini - Maceta",
+        "direccion": "static/img/Cuyerones/productos/ceramica/groot_mediano.png",
+        "dimensiones": "70x70x130mm",
+        "precio": "usd 4.50"
+    },
+    {
+        "id": 9,
+        "nombre": "Groot Grande",
+        "tipo": "Mini - Maceta",
+        "direccion": "static/img/Cuyerones/productos/ceramica/groot_grande.png",
+        "dimensiones": "150x100x215mm",
+        "precio": "usd 8.00"
+    },
+    {
+        "id": 10,
+        "nombre": "Gatito",
+        "tipo": "Mini - Maceta",
+        "direccion": "static/img/Cuyerones/productos/ceramica/gato.png",
+        "dimensiones": "100x60x75mm",
+        "precio": "usd 2.50"
+    },
+    {
+        "id": 11,
+        "nombre": "Conejo",
+        "tipo": "Mini - Maceta",
+        "direccion": "static/img/Cuyerones/productos/ceramica/conejos.png",
+        "dimensiones": "55x100x75mm",
+        "precio": "usd 2.50"
+    },
+    {
+        "id": 12,
+        "nombre": "Conejo con Canasta",
+        "tipo": "Mini - Maceta",
+        "direccion": "static/img/Cuyerones/productos/ceramica/conejos_canasta.png",
+        "dimensiones": "65x45x90mm",
+        "precio": "usd 2.50"
+    },
+    {
+        "id": 13,
+        "nombre": "Bota",
+        "tipo": "Mini - Maceta",
+        "direccion": "static/img/Cuyerones/productos/ceramica/bota.png",
+        "dimensiones": "65x135x80mm",
+        "precio": "usd 3.00"
+    },
+    {
+        "id": 14,
+        "nombre": "Patito",
+        "tipo": "Mini - Maceta",
+        "direccion": "static/img/Cuyerones/productos/ceramica/patos.png",
+        "dimensiones": "55x55x70mm",
+        "precio": "usd 2.50"
+    },
+    {
+        "id": 15,
+        "nombre": "Perrito",
+        "tipo": "Mini - Maceta",
+        "direccion": "static/img/Cuyerones/productos/ceramica/perritos.png",
+        "dimensiones": "55x100x40mm",
+        "precio": "usd 2.00"
+    },
+    {
+        "id": 16,
+        "nombre": "Vaquita",
+        "tipo": "Mini - Maceta",
+        "direccion": "static/img/Cuyerones/productos/ceramica/vacas.png",
+        "dimensiones": "55x55x70mm",
+        "precio": "usd 2.50"
+    },
+    {
+        "id": 17,
+        "nombre": "Caritas Pequeñas",
+        "tipo": "Mini - Maceta",
+        "direccion": "static/img/Cuyerones/productos/ceramica/caras_peques.png",
+        "dimensiones": "65x65x40mm",
+        "precio": "usd 1.50"
+    },
+    {
+        "id": 18,
+        "nombre": "Caritas Grandes",
+        "tipo": "Mini - Maceta",
+        "direccion": "static/img/Cuyerones/productos/ceramica/caras_grandes.png",
+        "dimensiones": "65x65x50mm",
+        "precio": "usd 2.00"
+    },
+    {
+        "id": 19,
+        "nombre": "Chanchita",
+        "tipo": "Alcancía",
+        "direccion": "static/img/Cuyerones/productos/ceramica/chanchita.png",
+        "dimensiones": "120x145x135mm",
+        "precio": "usd 5.00"
+    },     
+    {
+        "id": 20,
+        "nombre": "Puerco Araña",
+        "tipo": "Alcancía",
+        "direccion": "static/img/Cuyerones/productos/ceramica/puerco_arana.png",
+        "dimensiones": "120x145x135mm",
+        "precio": "usd 6.00"
+    },     
+    {
+        "id": 21,
+        "nombre": "Animalitos",
+        "tipo": "Porta - Incienso",
+        "direccion": "static/img/Cuyerones/productos/ceramica/animalitos_porta_inciencios.png",
+        "dimensiones": "30x30x40mm",
+        "precio": "usd 2.00"
+    },     
+    {
+        "id": 22,
+        "nombre": "Azucarera",
+        "tipo": "Azucarera",
+        "direccion": "static/img/Cuyerones/productos/ceramica/azucarera.png",
+        "dimensiones": "95x95x100mm",
+        "precio": "usd 3.00"
+    },     
+    {
+        "id": 23,
+        "nombre": "Cantaro Michelada",
+        "tipo": "Vaso",
+        "direccion": "static/img/Cuyerones/productos/ceramica/cantaro_michelada.png",
+        "dimensiones": "75x75x110mm",
+        "precio": "usd 2.50"
+    },     
+    {
+        "id": 24,
+        "nombre": "Chancha Coqueta",
+        "tipo": "Alcancía",
+        "direccion": "static/img/Cuyerones/productos/ceramica/chancha_coqueta.png",
+        "dimensiones": "120x120x160mm",
+        "precio": "usd 6.00"
+    },     
+    {
+        "id": 25,
+        "nombre": "Gnomos",
+        "tipo": "Porta - Incienso",
+        "direccion": "static/img/Cuyerones/productos/ceramica/gnomos.png",
+        "dimensiones": "50x55x70mm",
+        "precio": "usd 2.00"
+    },   
+    {
+        "id": 27,
+        "nombre": "Plato para Salsa",
+        "tipo": "Plato",
+        "direccion": "static/img/Cuyerones/productos/ceramica/plato_salsas.png",
+        "dimensiones": "380x380x95mm",
+        "precio": "usd 1.50"
+    }
+
+]
