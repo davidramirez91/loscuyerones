@@ -15,8 +15,7 @@
   const routes = {
     inicio: {
       file: "templates/inicio_2.html",
-      title:
-        "Los Cuyerones | Cerámica artesanal, barro y amigurumis en Riobamba",
+      title: "Los Cuyerones",
       description:
         "Cerámica decorativa, mini macetas, piezas de arcilla y barro y amigurumis tejidos a mano en Riobamba.",
     },
