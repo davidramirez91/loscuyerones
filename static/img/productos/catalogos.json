@@ -1,0 +1,26 @@
+{
+  "ceramica": [
+    {
+      "titulo": "Cerámica decorativa",
+      "descripcion": "Mini macetas, porta-inciensos, alcancías y piezas utilitarias.",
+      "archivo": "static/img/productos/ceramica.json"
+    },
+    {
+      "titulo": "Cerámica con plantas",
+      "descripcion": "Piezas listas para decorar, con cactus o suculentas.",
+      "archivo": "static/img/productos/ceramica_planta.json"
+    },
+    {
+      "titulo": "Arcilla y barro",
+      "descripcion": "Macetas y decorativos con acabados artesanales.",
+      "archivo": "static/img/productos/barro.json"
+    }
+  ],
+  "amigurumis": [
+    {
+      "titulo": "Amigurumis tejidos a mano",
+      "descripcion": "Personajes y animales elaborados en crochet.",
+      "archivo": "static/img/productos/amigurumis.json"
+    }
+  ]
+}

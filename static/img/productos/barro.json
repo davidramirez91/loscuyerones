@@ -1,0 +1,90 @@
+[
+  {
+    "id": 29,
+    "nombre": "Esfera Pequeña",
+    "tipo": "Maceta",
+    "direccion": "static/img/Cuyerones/productos/barro/maceta_barro_pequena.png",
+    "dimensiones": "90x90x80mm",
+    "precio": "usd 2.00",
+    "direccionOriginal": "static/img/productos/barro/maceta_barro_pequena.png",
+    "imagen": "static/img/productos/barro/maceta-barro-pequena.webp",
+    "miniatura": "static/img/productos/miniaturas/barro/maceta-barro-pequena.webp"
+  },
+  {
+    "id": 30,
+    "nombre": "Esfera Mediana",
+    "tipo": "Maceta",
+    "direccion": "static/img/Cuyerones/productos/barro/maceta_barro_mediana.png",
+    "dimensiones": "120x120x100mm",
+    "precio": "usd 3.00",
+    "direccionOriginal": "static/img/productos/barro/maceta_barro_mediana.png",
+    "imagen": "static/img/productos/barro/maceta-barro-mediana.webp",
+    "miniatura": "static/img/productos/miniaturas/barro/maceta-barro-mediana.webp"
+  },
+  {
+    "id": 31,
+    "nombre": "Corazón",
+    "tipo": "Maceta",
+    "direccion": "static/img/Cuyerones/productos/barro/maceta_corazon.png",
+    "dimensiones": "200x200x75mm",
+    "precio": "usd 3.00",
+    "direccionOriginal": "static/img/productos/barro/maceta_corazon.png",
+    "imagen": "static/img/productos/barro/maceta-corazon.webp",
+    "miniatura": "static/img/productos/miniaturas/barro/maceta-corazon.webp"
+  },
+  {
+    "id": 32,
+    "nombre": "Maceta Bonsai",
+    "tipo": "Maceta",
+    "direccion": "static/img/Cuyerones/productos/barro/maceta_grande_bonsai.png",
+    "dimensiones": "250x210x105mm",
+    "precio": "usd 6.00",
+    "direccionOriginal": "static/img/productos/barro/maceta_grande_bonsai.png",
+    "imagen": "static/img/productos/barro/maceta-grande-bonsai.webp",
+    "miniatura": "static/img/productos/miniaturas/barro/maceta-grande-bonsai.webp"
+  },
+  {
+    "id": 33,
+    "nombre": "Vasija Flor",
+    "tipo": "Maceta",
+    "direccion": "static/img/Cuyerones/productos/barro/vasija_flor_grande1.png",
+    "dimensiones": "200x200x160mm",
+    "precio": "usd 6.00",
+    "direccionOriginal": "static/img/productos/barro/vasija_flor_grande1.png",
+    "imagen": "static/img/productos/barro/vasija-flor-grande1.webp",
+    "miniatura": "static/img/productos/miniaturas/barro/vasija-flor-grande1.webp"
+  },
+  {
+    "id": 34,
+    "nombre": "Terrario",
+    "tipo": "Maceta",
+    "direccion": "static/img/Cuyerones/productos/barro/maceta_terrario.png",
+    "dimensiones": "195x170x150mm",
+    "precio": "usd 6.00",
+    "direccionOriginal": "static/img/productos/barro/maceta_terrario.png",
+    "imagen": "static/img/productos/barro/maceta-terrario.webp",
+    "miniatura": "static/img/productos/miniaturas/barro/maceta-terrario.webp"
+  },
+  {
+    "id": 35,
+    "nombre": "Tronco Mariquita",
+    "tipo": "Maceta",
+    "direccion": "static/img/Cuyerones/productos/barro/troncos_mariquita.png",
+    "dimensiones": "160x110x110mm",
+    "precio": "usd 6.00",
+    "direccionOriginal": "static/img/productos/barro/troncos_mariquita.png",
+    "imagen": "static/img/productos/barro/troncos-mariquita.webp",
+    "miniatura": "static/img/productos/miniaturas/barro/troncos-mariquita.webp"
+  },
+  {
+    "id": 36,
+    "nombre": "Pozo",
+    "tipo": "Maceta",
+    "direccion": "static/img/Cuyerones/productos/barro/pozo_barro.png",
+    "dimensiones": "160x110x110mm",
+    "precio": "usd 6.00",
+    "direccionOriginal": "static/img/productos/barro/pozo_barro.png",
+    "imagen": "static/img/productos/barro/pozo-barro.webp",
+    "miniatura": "static/img/productos/miniaturas/barro/pozo-barro.webp"
+  }
+]

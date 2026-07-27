@@ -1,0 +1,90 @@
+[
+  {
+    "id": 21,
+    "nombre": "Cuy pequeño con Planta",
+    "tipo": "Mini maceta con planta",
+    "direccion": "static/img/Cuyerones/productos/ceramica_plantas/cuy_peque_planta.png",
+    "dimensiones": "45x75x45mm",
+    "precio": "usd 2.50",
+    "direccionOriginal": "static/img/productos/ceramica_plantas/cuy_peque_planta.png",
+    "imagen": "static/img/productos/ceramica_plantas/cuy-peque-planta.webp",
+    "miniatura": "static/img/productos/miniaturas/ceramica_plantas/cuy-peque-planta.webp"
+  },
+  {
+    "id": 22,
+    "nombre": "Cuy Mediano con Planta",
+    "tipo": "Mini maceta con planta",
+    "direccion": "static/img/Cuyerones/productos/ceramica_plantas/cuy_mediano_planta.png",
+    "dimensiones": "75x140x75mm",
+    "precio": "usd 4.50",
+    "direccionOriginal": "static/img/productos/ceramica_plantas/cuy_mediano_planta.png",
+    "imagen": "static/img/productos/ceramica_plantas/cuy-mediano-planta.webp",
+    "miniatura": "static/img/productos/miniaturas/ceramica_plantas/cuy-mediano-planta.webp"
+  },
+  {
+    "id": 23,
+    "nombre": "Cuy Grande con Planta",
+    "tipo": "Mini maceta con planta",
+    "direccion": "static/img/Cuyerones/productos/ceramica_plantas/cuy_grande_planta.png",
+    "dimensiones": "80x160x90mm",
+    "precio": "usd 6.00",
+    "direccionOriginal": "static/img/productos/ceramica_plantas/cuy_grande_planta.png",
+    "imagen": "static/img/productos/ceramica_plantas/cuy-grande-planta.webp",
+    "miniatura": "static/img/productos/miniaturas/ceramica_plantas/cuy-grande-planta.webp"
+  },
+  {
+    "id": 24,
+    "nombre": "Gatito con Planta",
+    "tipo": "Mini maceta con planta",
+    "direccion": "static/img/Cuyerones/productos/ceramica_plantas/gato_planta.png",
+    "dimensiones": "100x60x75mm",
+    "precio": "usd 3.00",
+    "direccionOriginal": "static/img/productos/ceramica_plantas/gato_planta.png",
+    "imagen": "static/img/productos/ceramica_plantas/gato-planta.webp",
+    "miniatura": "static/img/productos/miniaturas/ceramica_plantas/gato-planta.webp"
+  },
+  {
+    "id": 25,
+    "nombre": "Vaquita con planta",
+    "tipo": "Mini maceta con planta",
+    "direccion": "static/img/Cuyerones/productos/ceramica_plantas/vaca_planta.png",
+    "dimensiones": "55x55x70mm",
+    "precio": "usd 3.00",
+    "direccionOriginal": "static/img/productos/ceramica_plantas/vaca_planta.png",
+    "imagen": "static/img/productos/ceramica_plantas/vaca-planta.webp",
+    "miniatura": "static/img/productos/miniaturas/ceramica_plantas/vaca-planta.webp"
+  },
+  {
+    "id": 26,
+    "nombre": "Mini maceta cuadrada",
+    "tipo": "Mini maceta con planta",
+    "direccion": "static/img/Cuyerones/productos/ceramica_plantas/macetas (1).png",
+    "dimensiones": "100x100x100mm",
+    "precio": "usd 3.00",
+    "direccionOriginal": "static/img/productos/ceramica_plantas/macetas (1).png",
+    "imagen": "static/img/productos/ceramica_plantas/macetas-1.webp",
+    "miniatura": "static/img/productos/miniaturas/ceramica_plantas/macetas-1.webp"
+  },
+  {
+    "id": 27,
+    "nombre": "Mini maceta hexagonal",
+    "tipo": "Mini maceta con planta",
+    "direccion": "static/img/Cuyerones/productos/ceramica_plantas/macetas (2).png",
+    "dimensiones": "100x100x100mm",
+    "precio": "usd 3.00",
+    "direccionOriginal": "static/img/productos/ceramica_plantas/macetas (2).png",
+    "imagen": "static/img/productos/ceramica_plantas/macetas-2.webp",
+    "miniatura": "static/img/productos/miniaturas/ceramica_plantas/macetas-2.webp"
+  },
+  {
+    "id": 28,
+    "nombre": "Mini maceta vasija",
+    "tipo": "Mini maceta con planta",
+    "direccion": "static/img/Cuyerones/productos/ceramica_plantas/macetas (3).png",
+    "dimensiones": "80x80x100mm",
+    "precio": "usd 3.00",
+    "direccionOriginal": "static/img/productos/ceramica_plantas/macetas (3).png",
+    "imagen": "static/img/productos/ceramica_plantas/macetas-3.webp",
+    "miniatura": "static/img/productos/miniaturas/ceramica_plantas/macetas-3.webp"
+  }
+]

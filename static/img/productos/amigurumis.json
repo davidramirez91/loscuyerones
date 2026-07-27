@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "nombre": "Leonel Messi",
+    "tipo": "Amigurumi",
+    "direccion": "static/img/Cuyerones/productos/amigurumis/messi_2.png",
+    "dimensiones": "45x45x155mm",
+    "precio": "usd 12.00",
+    "direccionOriginal": "static/img/productos/amigurumis/messi_2.png",
+    "imagen": "static/img/productos/amigurumis/messi-2.webp",
+    "miniatura": "static/img/productos/miniaturas/amigurumis/messi-2.webp"
+  },
+  {
+    "id": 2,
+    "nombre": "Ardilla",
+    "tipo": "Amigurumi",
+    "direccion": "static/img/Cuyerones/productos/amigurumis/ardilla.png",
+    "dimensiones": "100x100x210mm",
+    "precio": "usd 20.00",
+    "direccionOriginal": "static/img/productos/amigurumis/ardilla.png",
+    "imagen": "static/img/productos/amigurumis/ardilla.webp",
+    "miniatura": "static/img/productos/miniaturas/amigurumis/ardilla.webp"
+  },
+  {
+    "id": 3,
+    "nombre": "Ositos",
+    "tipo": "Amigurumi",
+    "direccion": "static/img/Cuyerones/productos/amigurumis/ositos.png",
+    "dimensiones": "70x70x170mm",
+    "precio": "usd 7.00",
+    "direccionOriginal": "static/img/productos/amigurumis/ositos.png",
+    "imagen": "static/img/productos/amigurumis/ositos.webp",
+    "miniatura": "static/img/productos/miniaturas/amigurumis/ositos.webp"
+  },
+  {
+    "id": 4,
+    "nombre": "Charizard",
+    "tipo": "Amigurumi",
+    "direccion": "static/img/Cuyerones/productos/amigurumis/charizard.png",
+    "dimensiones": "110x110x210mm",
+    "precio": "usd 12.00",
+    "direccionOriginal": "static/img/productos/amigurumis/charizard.png",
+    "imagen": "static/img/productos/amigurumis/charizard.webp",
+    "miniatura": "static/img/productos/miniaturas/amigurumis/charizard.webp"
+  },
+  {
+    "id": 5,
+    "nombre": "Charizard Negro",
+    "tipo": "Amigurumi",
+    "direccion": "static/img/Cuyerones/productos/amigurumis/charizard_negro.png",
+    "dimensiones": "110x110x210mm",
+    "precio": "usd 12.00",
+    "direccionOriginal": "static/img/productos/amigurumis/charizard_negro.png",
+    "imagen": "static/img/productos/amigurumis/charizard-negro.webp",
+    "miniatura": "static/img/productos/miniaturas/amigurumis/charizard-negro.webp"
+  },
+  {
+    "id": 6,
+    "nombre": "Conejito",
+    "tipo": "Amigurumi",
+    "direccion": "static/img/Cuyerones/productos/amigurumis/conejo.png",
+    "dimensiones": "55x55x180mm",
+    "precio": "usd 8.00",
+    "direccionOriginal": "static/img/productos/amigurumis/conejo.png",
+    "imagen": "static/img/productos/amigurumis/conejo.webp",
+    "miniatura": "static/img/productos/miniaturas/amigurumis/conejo.webp"
+  },
+  {
+    "id": 7,
+    "nombre": "Conejito Grande",
+    "tipo": "Amigurumi",
+    "direccion": "static/img/Cuyerones/productos/amigurumis/conejito_grande.png",
+    "dimensiones": "70x70x150mm",
+    "precio": "usd 8.00",
+    "direccionOriginal": "static/img/productos/amigurumis/conejito_grande.png",
+    "imagen": "static/img/productos/amigurumis/conejito-grande.webp",
+    "miniatura": "static/img/productos/miniaturas/amigurumis/conejito-grande.webp"
+  },
+  {
+    "id": 8,
+    "nombre": "Lola Bunny",
+    "tipo": "Amigurumi",
+    "direccion": "static/img/Cuyerones/productos/amigurumis/lola_bunny.png",
+    "dimensiones": "25x25x210mm",
+    "precio": "usd 12.00",
+    "direccionOriginal": "static/img/productos/amigurumis/lola_bunny.png",
+    "imagen": "static/img/productos/amigurumis/lola-bunny.webp",
+    "miniatura": "static/img/productos/miniaturas/amigurumis/lola-bunny.webp"
+  },
+  {
+    "id": 9,
+    "nombre": "Zorrito Grande",
+    "tipo": "Amigurumi",
+    "direccion": "static/img/Cuyerones/productos/amigurumis/zorro_mediano.png",
+    "dimensiones": "70x70x200mm",
+    "precio": "usd 8.00",
+    "direccionOriginal": "static/img/productos/amigurumis/zorro_mediano.png",
+    "imagen": "static/img/productos/amigurumis/zorro-mediano.webp",
+    "miniatura": "static/img/productos/miniaturas/amigurumis/zorro-mediano.webp"
+  },
+  {
+    "id": 10,
+    "nombre": "Knitsune",
+    "tipo": "Amigurumi",
+    "direccion": "static/img/Cuyerones/productos/amigurumis/knitsune.png",
+    "dimensiones": "60x60x200mm",
+    "precio": "usd 8.00",
+    "direccionOriginal": "static/img/productos/amigurumis/knitsune.png",
+    "imagen": "static/img/productos/amigurumis/knitsune.webp",
+    "miniatura": "static/img/productos/miniaturas/amigurumis/knitsune.webp"
+  },
+  {
+    "id": 11,
+    "nombre": "Hello Kitty",
+    "tipo": "Amigurumi",
+    "direccion": "static/img/Cuyerones/productos/amigurumis/kitty_rosa_1.png",
+    "dimensiones": "70x70x170mm",
+    "precio": "usd 15.00",
+    "direccionOriginal": "static/img/productos/amigurumis/kitty_rosa_1.png",
+    "imagen": "static/img/productos/amigurumis/kitty-rosa-1.webp",
+    "miniatura": "static/img/productos/miniaturas/amigurumis/kitty-rosa-1.webp"
+  }
+]
